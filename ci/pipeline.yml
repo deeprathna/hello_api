@@ -8,7 +8,7 @@ resources:
   - name: hello_hapi
     type: git
     source: &repo-source
-      uri: https://github.com/deeprathna/hello_hapi
+      uri: https://github.com/deeprathna/hello_api
       branch: master
   - name: dependency-cache
     type: npm-cache
